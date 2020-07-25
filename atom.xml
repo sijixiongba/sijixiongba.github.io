@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sijixiongba.github.io</id>
     <title>老张博客</title>
-    <updated>2020-07-25T12:20:50.199Z</updated>
+    <updated>2020-07-25T12:32:19.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sijixiongba.github.io"/>
     <link rel="self" href="https://sijixiongba.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://sijixiongba.github.io/images/avatar.png</logo>
     <icon>https://sijixiongba.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 老张博客</rights>
+    <entry>
+        <title type="html"><![CDATA[关于欧标 G2 笔芯]]></title>
+        <id>https://sijixiongba.github.io/post/guan-yu-ou-biao-g2-bi-xin/</id>
+        <link href="https://sijixiongba.github.io/post/guan-yu-ou-biao-g2-bi-xin/">
+        </link>
+        <updated>2020-07-25T12:28:27.000Z</updated>
+        <content type="html"><![CDATA[<p>目前所用的 <strong><a href="https://www.notion.so/KAWECO-d4f0b9f7f9a24b269ce5bc3fa9ec981a">KAWECO 宝珠笔</a> 、<a href="https://www.notion.so/KACO-TUBE-0-5-0e7d77edecbb4601910cbe3ecf3d8992">KACO TUBE 智途按动中性笔 0.5</a> 、<a href="https://www.notion.so/Schneider-1d8fab98e3a549d5b1cd88a0d8e4e6c5">施耐德（Schneider）中性笔</a></strong> 使用的笔芯均为欧标 G2 笔芯。</p>
+<p>欧标 G2 笔芯 品牌较多，进口较贵，个人使用 <strong><a href="https://www.notion.so/KACO-G2-2bcb92f19ad94cd39fbf30197dc937b7">KACO 欧标 G2 笔芯</a></strong> ，性价比挺高。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一次使用 Gride]]></title>
         <id>https://sijixiongba.github.io/post/di-yi-ci-shi-yong-gride/</id>
